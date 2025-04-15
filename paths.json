@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json",
-    "/content/xsc-xwalk-site/configuration.json:/configuration.json"
+    "/content/ups-demo/:/",
+    "/content/ups-demo/metadata.json:/metadata.json",
+    "/content/ups-demo/redirects.json:/redirects.json",
+    "/content/ups-demo/configuration.json:/configuration.json"
   ]
 }
